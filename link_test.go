@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/refraction-networking/utls/testenv"
+	"github.com/patrini32/utls/utls/testenv"
 )
 
 // Tests that the linker is able to remove references to the Client or Server if unused.

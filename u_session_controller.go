@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/refraction-networking/utls/internal/tls13"
+	"github.com/patrini32/utls/utls/internal/tls13"
 )
 
 // Tracking the state of calling conn.loadSession
